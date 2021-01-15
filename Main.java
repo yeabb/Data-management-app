@@ -1,9 +1,7 @@
 
 
 /**
-*@author Yeabkal Biru, 
-*@author Eiman Rana,
-*@author John MWai
+*@author Yeabkal Biru
 *@since 5/13/2020
 **Date 5/02/2020
 *This program will serve as a user interface using the terminal. it will display the whole program on the terminal
