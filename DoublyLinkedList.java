@@ -1,7 +1,5 @@
 /**
-*@author Eiman Rana,
-*@author Yeabkal Biru, 
-*@author John MWai
+*@author Yeabkal Biru
 *@since 5/13/2020
 * The node class for a DoublyLinkedList class
 * The DoublyLinkedList class, holds the list of DNodes
