@@ -1,7 +1,5 @@
 /**
-*@author Yeabkal Biru, 
-*@author Eiman Rana,
-*@author John MWai
+*@author Yeabkal Biru
 *@since 5/13/2020
 * The node class for a DoublyLinkedList class
 * The DNode stores a name of the user 
